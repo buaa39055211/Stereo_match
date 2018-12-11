@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\yuxd\desktop\open_cv\hny_cv\video with depth\stereo_match\test01\main.cpp(189): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yuxd\desktop\open_cv\hny_cv\video with depth\stereo_match\test01\main.cpp(1162): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  正在生成代码
+  1 of 529 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Test01.vcxproj -> C:\Users\YUXD\Desktop\open_cv\HNY_CV\video with depth\Stereo_match\x64\Release\Test01.exe

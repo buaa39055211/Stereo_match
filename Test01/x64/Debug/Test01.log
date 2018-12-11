@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\yuxd\desktop\open_cv\hny_cv\demo_006-sgbm-bm-二者选一运行-v1.5 -cam2\test01\main.cpp(187): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yuxd\desktop\open_cv\hny_cv\demo_006-sgbm-bm-二者选一运行-v1.5 -cam2\test01\main.cpp(1041): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\yuxd\desktop\open_cv\hny_cv\demo_006-sgbm-bm-二者选一运行-v1.5 -cam2\test01\main.cpp(1100): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\yuxd\desktop\open_cv\hny_cv\demo_006-sgbm-bm-二者选一运行-v1.5 -cam2\test01\main.cpp(1155): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  Test01.vcxproj -> C:\Users\YUXD\Desktop\open_cv\HNY_CV\Demo_006-SGBM-BM-二者选一运行-V1.5 -cam2\x64\Debug\Test01.exe
